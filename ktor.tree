@@ -11,6 +11,7 @@
         <toc-element toc-title="Creating a New Ktor Project">
             <toc-element id="intellij-idea.xml"/>
             <toc-element id="generator.md"/>
+            <toc-element id="openapi_swagger.md"/>
         </toc-element>
         <toc-element toc-title="Adding Ktor to an Existing Project">
             <toc-element id="Gradle.xml"
